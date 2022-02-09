@@ -1,0 +1,2 @@
+# komponente-hero
+Hero Komponente
